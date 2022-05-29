@@ -2,18 +2,30 @@ body {
     background-color: lightblue;
 }
 
-#clock{
+#clock {
     color: white;
     font-size: 195px;
     background-color: black;
     padding: 0.5em 0em;
     width: 80%;
     margin: 0px auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica;
     text-align: center;
 }
 
-span{
+#banner {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    background-color: beige;
+    padding: 0.5em 0em;
+    width: 80%;
+    margin: 10% auto 0%;
+    font-family: Helvetica;
+    text-transform: uppercase;
+}
+
+span {
     margin-left: 175px;
 
 }
